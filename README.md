@@ -2,6 +2,10 @@
 
 An interactive visualization of the water cycle using Python and Graphviz.
 
+## 🌐 Live Demo
+
+View the interactive visualization: [https://markopalski.github.io/water-cycle-graph/](https://markopalski.github.io/water-cycle-graph/)
+
 ## Overview
 
 This project generates a visual representation of the water cycle showing the relationships between different processes like evaporation, transpiration, condensation, precipitation, collection, infiltration, groundwater flow, and sublimation.
